@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Mer</h1>
-<h3 align="center">A passionate Software Development</h3>
+<h3 align="center"> passionate Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamer066-png&label=Profile%20views&color=0e75b6&style=flat" alt="divyamer066-png" /> </p>
 
