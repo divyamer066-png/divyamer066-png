@@ -13,8 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyamer066-png](https://github.com/divyamer066-png)
 
-- 📫 How to reach me **https://www.linkedin.com/in/divya-mer-947941378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
-
+- 📫 How to reach me  www.linkedin.com/in/ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
