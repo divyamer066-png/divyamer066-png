@@ -16,18 +16,12 @@
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/divyaskies.bsky.socal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DivyaMer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@divyaskies) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCljDYFupfsOUHgofk02P8DA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyamer066@gmail.com) 
-## 🌐 Socials:
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/divyaskies) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/divyaskies.bsky.socal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DivyaMer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@divyaskies) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCljDYFupfsOUHgofk02P8DA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyamer066@gmail.com) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/divyaskies) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=divyamer066-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=divyamer066-png&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyamer066-png&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=divyamer066-png&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
