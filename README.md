@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyamer066-png" alt="divyamer066-png" /></a> </p>
 
-- 🔭 I’m currently student at **Graphic Era Hill University BTL**
+- 🔭 student at **Graphic Era Hill University BTL**
 
 - 🌱 I’m currently learning **python , c programing**
 
