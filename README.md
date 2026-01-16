@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **open-source project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyamer066-png](https://github.com/divyamer066-png)
 
 
 
